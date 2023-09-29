@@ -1,4 +1,5 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization 
+
 i = 0
 
 def helper():
